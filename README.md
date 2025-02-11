@@ -1,7 +1,7 @@
 ## Hi, I'm Chris 👋
 
 <p align="center">
-  <a href="https://www.linkedin.com/">LinkedIn</a> •
+  <a href="https://www.linkedin.com/cjb543">LinkedIn</a> •
   <a href="https://bsky.app/profile/prodbybenson.bsky.social">Bluesky</a>
 </p>
 
