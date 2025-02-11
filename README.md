@@ -1,4 +1,4 @@
-## Hi, I'm Chris 👋
+## Hi, I'm Chris!&nbsp; <img src="https://github.com/user-attachments/assets/411a2836-f9d8-4a82-9451-99195cb903fd" width="32">
 
 <p align="center">
   <a href="https://www.linkedin.com/in/cjb543">LinkedIn</a> •
